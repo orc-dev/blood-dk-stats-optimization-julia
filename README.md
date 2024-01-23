@@ -12,4 +12,4 @@ The optimized allocation strategy for secondary stats is derived for gear levels
 Additionally, a sensitivity analysis is performed, revealing that the survivability of the Blood Death Knight 
 exhibits a moderate level of sensitivity to certain secondary stats. 
 
-For detailed information, including the mathematical model, code implementation, and results, please refer to the 'Project_Report.pdf' document.
+For detailed information, including the mathematical model, code implementation, and results, please refer to the [Project_Report.pdf](https://github.com/orc-dev/blood-dk-stats-optimization-julia/blob/main/Project_Report.pdf) document.
